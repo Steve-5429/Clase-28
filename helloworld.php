@@ -1,5 +1,3 @@
 <?php
-  $ga="hola panchito";
-
-   echo "<h1>$ga</h1>"
+  echo "current php version:" .phpversion();
   ?>
