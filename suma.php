@@ -4,6 +4,6 @@ $num2 = 20 ;
 
 $resul = $num1 + $num2;
 
-echo " la suma 
-es : ".$resul;
+echo nl2br(" la suma es : \n"); 
+echo "$resul";
 ?>
